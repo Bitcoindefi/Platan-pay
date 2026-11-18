@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Agente de compras supervisado para Argentina — PlatandPay",
+  "description": "Agente de compras supervisado para Argentina \u2014 PlatandPay",
   "scripts": {
     "dev:server": "tsx watch --env-file-if-exists=.env src/api/server.ts",
     "dev:frontend": "npm run dev --workspace frontend",
